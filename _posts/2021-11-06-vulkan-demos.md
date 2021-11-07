@@ -3,7 +3,7 @@ layout: post
 title: "Vulkan Demos"
 author: "Jooho Jeong"
 categories: project
-tags: [project.graphics]
+tags: [projects.graphics]
 image: n_body_simulation.gif
 excerpt_separator: <!--more-->
 ---
