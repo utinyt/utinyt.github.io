@@ -8,7 +8,7 @@ image: n_body_simulation.gif
 excerpt_separator: <!--more-->
 ---
 
-This is a real-time 3D rendering application using Vulkan / C++ / GLSL.
+This is a real-time 3D rendering application using C++ / Vulkan / GLSL.
 <!--more-->
 
 ## Developing Environments
