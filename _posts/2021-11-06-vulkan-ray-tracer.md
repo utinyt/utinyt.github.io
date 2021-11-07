@@ -38,5 +38,5 @@ A lot of code were based on these great resources:
 
 ## First model - (Sep.12.2021)
 ![bunny.png](https://github.com/utinyt/utinyt.github.io/blob/gh-pages/assets/img/bunny.png)<br>
-
+![alt text](https://user-images.githubusercontent.com/8409329/32631384-17107870-c56e-11e7-932f-deeb7c12e4db.png "Lagrange Demo Image")
 #### Reference: [vk_raytracing_tutorial_KHR](https://nvpro-samples.github.io/vk_raytracing_tutorial_KHR)
