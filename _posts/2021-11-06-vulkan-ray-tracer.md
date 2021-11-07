@@ -5,9 +5,11 @@ author: "Jooho Jeong"
 categories: projects
 tags: [projects.graphics]
 image: path_tracing.gif
+excerpt_separator: <!--more-->
 ---
 
 This is a real-time ray tracer using C++ / Vulkan / GLSL.
+<!--more-->
 
 ## Developing Environments
 * OS: Windows 10
