@@ -32,7 +32,7 @@ A lot of code were based on these great resources:
 
 ## Updates
 ## Path Tracing - (Sep.20.2021)
-![path_tracing](path_tracing.gif)<br>
+![path_tracing](https://github.com/utinyt/utinyt.github.io/blob/gh-pages/assets/img/path_tracing.gif)<br>
 
 #### Reference: https://github.com/nvpro-samples/vk_raytracing_tutorial_KHR/tree/master/ray_tracing_gltf
 
