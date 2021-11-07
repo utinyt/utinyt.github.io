@@ -7,7 +7,6 @@ tags: [project.graphics]
 image: n_body_simulation.gif
 ---
 
-# Vulkan Technical Demo
 This is a realtime 3D rendering application using Vulkan / C++ / GLSL.
 
 ## Developing Environments
@@ -31,7 +30,7 @@ A lot of code were based on these great resources:
 
 ## Updates
 ## N-Body Simulation + HDR & Bloom - (Oct.31.2021)
-![n body simulation](https://github.com/utinyt/utinyt.github.io/blob/gh-pages/assets/img/n_body_simulation.gif)<br>
+![n body simulation](https://github.com/utinyt/Vulkan/blob/master/vulkan/screenshots/n_body_simulation.gif?raw=true)<br>
 #### Average frame time: 5.57ms (179.6 FPS)
 * 32768 particles (uniformly distributed on the surface of a sphere)
 * Screen resolution 1200x800
@@ -41,7 +40,7 @@ A lot of code were based on these great resources:
 <br>
 
 ## Deferred Rendering + SSAO & MSAA - (Oct.05.2021)
-![deferred_rendering](https://github.com/utinyt/utinyt.github.io/blob/gh-pages/assets/img/deferred_rendering.png)<br>
+![deferred_rendering](https://raw.githubusercontent.com/utinyt/Vulkan/master/vulkan/screenshots/deferred_rendering.png)<br>
 Youtube link : https://youtu.be/CDU1MrpubUw
 
 ### Scene setup
@@ -51,7 +50,7 @@ Youtube link : https://youtu.be/CDU1MrpubUw
 * MSAA applied (maximum sample count supported by current device)
   
 ### Optimization #1
-![deferred_rendering edge detection](https://github.com/utinyt/utinyt.github.io/blob/gh-pages/assets/img/deferred_rendering_edge_detection.png)<br>
+![deferred_rendering edge detection](https://github.com/utinyt/Vulkan/blob/master/vulkan/screenshots/deferred_rendering_edge_detection.png?raw=true)<br>
 Used edge detection (comparing neighborhood normal vectors) to only apply msaa to the pixels on edges<br>
 
 ### Optimization #2
@@ -61,17 +60,17 @@ To fix thread coherence problem ("edge pixels" and "non-edge pixels" are compute
 <br>
 
 ## MSAA - (Sep.16.2021)
-![mass_x1](https://github.com/utinyt/utinyt.github.io/blob/gh-pages/assets/img/msaa_x1.png)<br>
-![mass_x8](https://github.com/utinyt/utinyt.github.io/blob/gh-pages/assets/img/msaa_x8.png)<br>
+![mass_x1](https://raw.githubusercontent.com/utinyt/Vulkan/master/vulkan/screenshots/msaa_x1.png)<br>
+![mass_x8](https://raw.githubusercontent.com/utinyt/Vulkan/master/vulkan/screenshots/msaa_x8.png)<br>
 <br>
 
 ## Skybox & environment (reflection) mapping - (Sep.16.2021)
-![skybox](https://github.com/utinyt/utinyt.github.io/blob/gh-pages/assets/img/skybox.gif)<br>
+![skybox](https://github.com/utinyt/Vulkan/blob/master/vulkan/screenshots/skybox.gif?raw=true)<br>
 #### Skybox textures: http://www.humus.name/index.php?page=Textures&start=8
 <br>
 
 ## Initial framework - (Sep.06.2021)
-![initial_framework](https://github.com/utinyt/utinyt.github.io/blob/gh-pages/assets/img/initial_framework.png)<br>
+![initial_framework](https://github.com/utinyt/Vulkan/blob/master/vulkan/screenshots/initial_framework.png?raw=true)<br>
 #### Initial scene with stanford bunny - simple diffuse light applied <br>
 
 Most of basic vulkan features were implemented at this point: <br>
