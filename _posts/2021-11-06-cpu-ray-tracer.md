@@ -70,4 +70,4 @@ A = Intersect(sphere, box) <br>
 B = Union(cylinderA, Union(cylinderB, cylinderC)) <br>
 Final = Difference(A, B) <br>
 
-#### HDR Image reference: http://www.hdrlabs.com/sibl/archive.html
+#### HDR Image reference: [http://www.hdrlabs.com/sibl/archive.html](http://www.hdrlabs.com/sibl/archive.html)
