@@ -5,11 +5,12 @@ author: "Jooho Jeong"
 categories: projects
 tags: [projects.graphics]
 image: project5_ibl1.png
+excerpt_separator: <!--more-->
 ---
 
-# CPU Ray Tracer
 This is a one-semester project generating high quality images using ray-tracing technique.<br>
 *Instructor: Dr. Gary Herron*
+<!--more-->
 
 ## Project 1 - Ray casting
 ![ray_casting](https://github.com/utinyt/CPU-Ray-Tracer/blob/main/output_images/project1_ray_casting.png?raw=true)<br>
