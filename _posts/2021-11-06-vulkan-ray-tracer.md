@@ -7,7 +7,6 @@ tags: [projects.graphics]
 image: path_tracing.gif
 ---
 
-# Vulkan Ray Tracer
 This is a real-time ray tracer using C++ / Vulkan / GLSL.
 
 ## Developing Environments
@@ -32,11 +31,10 @@ A lot of code were based on these great resources:
 
 ## Updates
 ## Path Tracing - (Sep.20.2021)
-![path_tracing.gif](https://github.com/utinyt/utinyt.github.io/blob/gh-pages/assets/img/path_tracing.gif)<br>
+![path_tracing](https://github.com/utinyt/Vulkan-Ray-Tracer/blob/master/screenshots/path_tracing.gif?raw=true)<br>
 
 #### Reference: [vk_raytracing_tutorial_KHR - ray_tracing_gltf](https://github.com/nvpro-samples/vk_raytracing_tutorial_KHR/tree/master/ray_tracing_gltf)
 
 ## First model - (Sep.12.2021)
-![alt text2](https://raw.githubusercontent.com/utinyt/Vulkan/master/vulkan/screenshots/deferred_rendering.png)
-![alt text](https://user-images.githubusercontent.com/8409329/32631384-17107870-c56e-11e7-932f-deeb7c12e4db.png "Lagrange Demo Image")
+![bunny](https://raw.githubusercontent.com/utinyt/Vulkan-Ray-Tracer/master/screenshots/bunny.png)
 #### Reference: [vk_raytracing_tutorial_KHR](https://nvpro-samples.github.io/vk_raytracing_tutorial_KHR)
