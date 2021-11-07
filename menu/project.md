@@ -1,5 +1,5 @@
 ---
-layout: home
+layout: project
 title: Project
 permalink: /project
 ---
