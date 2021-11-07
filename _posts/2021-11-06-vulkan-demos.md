@@ -5,9 +5,11 @@ author: "Jooho Jeong"
 categories: project
 tags: [project.graphics]
 image: n_body_simulation.gif
+excerpt_separator: <!--more-->
 ---
 
-This is a realtime 3D rendering application using Vulkan / C++ / GLSL.
+This is a real-time 3D rendering application using Vulkan / C++ / GLSL.
+<!--more-->
 
 ## Developing Environments
 * OS: Windows 10
