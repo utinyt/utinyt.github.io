@@ -37,6 +37,6 @@ A lot of code were based on these great resources:
 #### Reference: [vk_raytracing_tutorial_KHR - ray_tracing_gltf](https://github.com/nvpro-samples/vk_raytracing_tutorial_KHR/tree/master/ray_tracing_gltf)
 
 ## First model - (Sep.12.2021)
-![alt text2](https://github.com/utinyt/utinyt.github.io/blob/gh-pages/assets/img/bunny.png "bunny")
+![alt text2](https://raw.githubusercontent.com/utinyt/Vulkan/master/vulkan/screenshots/deferred_rendering.png)
 ![alt text](https://user-images.githubusercontent.com/8409329/32631384-17107870-c56e-11e7-932f-deeb7c12e4db.png "Lagrange Demo Image")
 #### Reference: [vk_raytracing_tutorial_KHR](https://nvpro-samples.github.io/vk_raytracing_tutorial_KHR)
