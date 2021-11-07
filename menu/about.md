@@ -1,19 +1,21 @@
 ---
 layout: page
-title: Welcome to Lagrange!
+title: Nice to meet you
 permalink: /about
 ---
 
-Lagrange is a minimalist Jekyll theme. The purpose of this theme is to provide a simple, clean, content-focused blogging platform for your personal site or blog. Below you can find everything you need to get started.
+My name is Jooho Jeong, majoring computer science (BS in Computer Science in Real-Time Interactive Simulation) in DigiPen Institute of Technology. I've worked on a couple of game project as a general gameplay programmer / engine programmer, but I am particularly interested in computer graphics. I've made a few graphics demos using C++ / OpenGL / Vulkan. 
 
-### Getting Started
+### Experience
+* Teaching Assistant (DigiPen Institute of Technology, AUG 2019 - JUL 2020)
+* Auxiliary Policeman (Daegu, South Korea, December 2016 - September 2018)
 
-[Getting Started]({{ site.github.url }}{% post_url 2015-10-10-getting-started %}): getting started with installing Lagrange, whether you are completely new to using Jekyll, or simply just migrating to a new Jekyll theme.
-
-### Example Content
-
-[Text and Formatting]({{ site.github.url }}{% post_url 2014-01-01-text-formatting-examples %})
-
-### Questions?
-
-This theme is completely free and open source software. You may use it however you want, as it is distributed under the [MIT License](http://choosealicense.com/licenses/mit/). If you are having any problems, any questions or suggestions, feel free to [tweet at me](https://twitter.com/intent/tweet?text=My%question%about%Lagrange%is:%&amp;via=paululele), or [file a GitHub issue](https://github.com/lenpaul/lagrange/issues/new).
+### Skills
+* C++
+* OpenGL
+* Vulkan
+* GLSL
+* Visual Studio
+* Git
+* RenderDoc
+* Unreal Engine 4
