@@ -5,7 +5,8 @@ permalink: /about
 ---
 
 My name is Jooho Jeong, majoring computer science (BS in Computer Science in Real-Time Interactive Simulation) in DigiPen Institute of Technology. <br>
-I've worked on a couple of game project as a general gameplay programmer / engine programmer, but I am particularly interested in computer graphics. I've made a few graphics demos using C++ / OpenGL / Vulkan. 
+I've worked on a couple of game project as a general gameplay programmer / engine programmer, but I am particularly interested in computer graphics. I've made a few graphics demos using C++ / OpenGL / Vulkan.<br>
+You can contant me at jooho556@gmail.com, or LinkedIn.
 
 ### Experience
 * Teaching Assistant (DigiPen Institute of Technology, AUG 2019 - JUL 2020)
